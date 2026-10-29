@@ -1,0 +1,1 @@
+### I plan on creating a calendar for this project to not only help the average human stay organized, but people who own businesses and more, so they can tackle being on top of their everyday activities.
