@@ -40,6 +40,6 @@ You can use any text editor capable of opening and editing Markdown files.
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 
-Welcome to my page and here's a small scope of what it's going to be about.
+Welcome to my page and here's a small scope of what it's going to be about down below.
 
 [[about]]
