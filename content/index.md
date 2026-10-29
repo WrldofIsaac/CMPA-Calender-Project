@@ -42,4 +42,6 @@ You can add more pages to your website by adding more Markdown files to the `con
 
 Welcome to my page and here's a small scope of what it's going to be about down below.
 
-[[about]]
+[About Me](about/about.md)
+
+
