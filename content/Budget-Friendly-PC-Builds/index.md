@@ -1,5 +1,5 @@
 ---
-title: Budget-Friendl;y PC Builds
+title: Budget-Friendly PC Builds
 ---
 **---**  
 # **Budget-Friendly PC Builds**  
