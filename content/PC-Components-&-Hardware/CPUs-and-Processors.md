@@ -5,6 +5,7 @@ title: CPU & Processors
 
 The CPU also known as the central processing unit, is often described as the brain of a computer. It the main hardware component in a computer or smart device that executes program instructions and coordinates system operations. When you think about building a gaming PC, the graphics card is usually hardware that gets the most attention, but the CPU still matters as well. A powerful GPU can still be bottlenecked (held back) if the CPU cannot keep up with it.
 
+![[Intel-CPU1.jpg]]
 ## What does a CPU do?
 
 A CPU primary function is to retrieve, decode, and execute program instructions to process data. So when you are gaming, it helps with things like character movement, physics, graphics and other background tasks. It also helps multitask between many different applications at the same time.

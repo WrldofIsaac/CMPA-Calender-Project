@@ -20,10 +20,10 @@ A game running at 1080p usually asks less from a graphics card than the same gam
 
 ## Making sure your GPU matches the rest of your PC
 
-A graphics card needs a processor that can keep up with it. If the CPU is too limited for a particular game or frame rate target, it may restrict performance which is also known as ==🔴Bottlenecking.== The[[CPUs-and-Processors | CPU & Processors page]] explains why both matter. 
+A graphics card needs a processor that can keep up with it. If the CPU is too limited for a particular game or frame rate target, it may restrict performance which is also known as ==🔴Bottlenecking.== The [[CPUs-and-Processors | CPU & Processors page]] explains why both matter. 
 
 It is also important that you check the [[Motherboards-and-Power-Supplies|Motherboard & PSU]]. The card must fit in the case, receive the appropriate power and connect to the motherboard. 
 
 ## Buying without overspending
 
-I would not automatically buy the most expensive GPU available. Especially with how expensive the prices are due to miners and AI. First, I would decide what games will I be playing, and look a the performance test. A midrange GPU can be more than enough for gaming and will leave you for more [[RAM-and-Memory|Ram]] or more [[Storage-SSD-vs-HDD|SSD]] space. 
+I would not automatically buy the most expensive GPU available. Especially with how expensive the prices are due to miners and AI. First, I would decide what games will I be playing, and look a the performance test. A midrange GPU can be more than enough for gaming and will leave you for more [[RAM-and-Memory|RAM]] or more [[Storage-SSD-vs-HDD|SSD]] space. 
