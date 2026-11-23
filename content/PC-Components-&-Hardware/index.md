@@ -18,3 +18,14 @@ Now that you've understand the basics of PC gaming from [[Gaming-PC-Basics/index
 - [[RAM-and-Memory|RAM and Memory]] — See how system memory helps games and other programs run.
 - [[Storage-SSD-vs-HDD|Storage: SSD vs. HDD]] — Compare fast SSDs with higher-capacity hard drives.
 - [[Motherboards-and-Power-Supplies|Motherboards and Power Supplies]] — Learn how components connect and how to choose a suitable PSU.
+# Overview of PC Components & Hardware 
+
+The picture below shows the inside of a desktop computer and some of its main components, including the motherboard, CPU, storage, and power supply.
+
+![[PC Components.png]]
+
+## Computer Hardware Guide
+
+This PDF provides more information about your computers' hardware and explains more in depth how the different components work together. 
+
+![[Computer Concepts.pdf]]
